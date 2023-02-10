@@ -11,9 +11,9 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <code>
-      git clone --bare https://github.com/rokejulianlockhart/rokejulianlockhart
-      git push --mirror https://github.com/rokejulianlockhart/rokejulianlockhart.github.io
-    </code>
+<code>
+git clone --bare https://github.com/rokejulianlockhart/rokejulianlockhart
+git push --mirror https://github.com/rokejulianlockhart/rokejulianlockhart.github.io
+</code>
   </body>
 </html>
