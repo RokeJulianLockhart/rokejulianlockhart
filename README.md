@@ -10,14 +10,14 @@
   </head>
 </html>
 
-statistics.miscellany
+miscellany
 ----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rokejulianlockhart&show_icons=true&theme=transparent)
 
-statistics.visitation
+visitation
 ----
 [![](https://visitcount.itsvg.in/api?id=rokejulianlockhart&label=Profile%20Views&color=12&icon=0)](https://visitcount.itsvg.in)
 
-statistics.languages
+languages
 ----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rokejulianlockhart&langs_count=10&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
