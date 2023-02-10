@@ -10,7 +10,7 @@
   </head>
 </html>
 
-Miscellaneous:
+Miscellaneous statistics:
 ----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rokejulianlockhart&show_icons=true&theme=transparent)
 
