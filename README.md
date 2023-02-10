@@ -10,9 +10,13 @@
   </head>
 </html>
 
-statistics
+statistics.miscellany
 ----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rokejulianlockhart&show_icons=true&theme=transparent)
+
+statistics.visitation
+----
+[![](https://visitcount.itsvg.in/api?id=rokejulianlockhart&label=Profile%20Views&color=12&icon=0)](https://visitcount.itsvg.in)
 
 statistics.languages
 ----
