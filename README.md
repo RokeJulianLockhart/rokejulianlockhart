@@ -17,7 +17,3 @@ Miscellaneous:
 Languages:
 ----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rokejulianlockhart&langs_count=10&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-Trophies:
-----
-[![trophy](https://github-profile-trophy.vercel.app/?username=rokejulianlockhart)](https://github.com/ryo-ma/github-profile-trophy)
