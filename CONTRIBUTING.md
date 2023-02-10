@@ -8,8 +8,6 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="style.css">
   </head>
-  <body>
-  </body>
 </html>
 
 ```
