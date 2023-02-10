@@ -1,5 +1,7 @@
 !#/usr/bin/env tea pwsh
 
+# https://stackoverflow.com/q/11370239/9731176
+
 Set-Variable -Name 'ValidDomains' -Scope Global -Value @('gitlab.com', 'github.com')
 Write-Output (Get-Variable -Name 'ValidDomains' | Select-Object -ExpandProperty Value)
 Set-Variable -Name 'ChosenDomain' -Scope Global -Value (Read-Host)
