@@ -9,8 +9,3 @@
     <link rel="stylesheet" href="style.css">
   </head>
 </html>
-
-```
-git clone --bare https://github.com/rokejulianlockhart/rokejulianlockhart
-git push --mirror https://github.com/rokejulianlockhart/rokejulianlockhart.github.io
-```
