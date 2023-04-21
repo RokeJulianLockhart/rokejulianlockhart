@@ -1,4 +1,6 @@
+```shebang
 #!/usr/bin/env -S tea code-insiders
+```
 
 <!DOCTYPE md>
 <html lang="en-oxedict">
