@@ -2,7 +2,7 @@
 #!/usr/bin/env -S tea code-insiders
 ```
 
-<!DOCTYPE md>
+<!DOCTYPE md> <!-- https://stackoverflow.com/q/71884484/9731176 -->
 <html lang="en-oxedict">
 
 <head>
