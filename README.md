@@ -31,11 +31,13 @@ Statistics for the account. Note that most of my work occurs on gitlab.com.
   <img width="auto" height="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokejulianlockhart&langs_count=10&theme=transparent&count_private=true&layout=default&langs_count=10" />
 </a>
   
-This isn't entirely indicative of the languages that I'm most proficient at. That's probably  
-`pwsh-preview`  
-`python3`  
-`sh` and  
-C++  
+<p>This isn't entirely indicative of the languages that I'm most proficient at. That's probably</p>
+<ol type="1">
+  <li><code>pwsh-preview</code></li>
+  <li><code>python3</code></li>
+  <li><code>sh</code></li>
+  <li>C++</li>
+</ol>
   
 <h2>
   Miscellany
