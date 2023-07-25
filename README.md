@@ -24,6 +24,7 @@ src="https://github-readme-stats.vercel.app/api?username=rokejulianlockhart&show
 </div>
 </p>
 
+<!--
 <p>
 <div style='clear:both'></div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -32,6 +33,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokejulianlo
 </a>
 </div>
 </p>
+-->
 
 <p>This isn't entirely indicative of the languages that I'm most proficient at. That's probably
 <ol type="1">
