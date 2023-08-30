@@ -1,4 +1,4 @@
-!#/usr/bin/env tea pwsh
+!#/usr/bin/env -S tea pwsh-preview
 
 # https://stackoverflow.com/q/11370239/9731176
 
