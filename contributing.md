@@ -1,5 +1,3 @@
-#!/usr/bin/env tea kate
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
