@@ -44,6 +44,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokejulianlo
 </ol>
 </p>
 
+<!--
+
 <p>
 <div style='clear:both'></div>
 <a href="https://visitcount.itsvg.in">
@@ -52,6 +54,10 @@ src="https://visitcount.itsvg.in/api?id=rokejulianlockhart&label=Profile%20Views
 </a>
 </div>
 </p>
+
+-->
+
+Most information about me is available at https://gitlab.com/rokejulianlockhart/rokejulianlockhart/-/blob/main/readMe.md instead.
 
 </body>
 
