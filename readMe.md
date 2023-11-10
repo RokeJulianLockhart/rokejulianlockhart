@@ -13,7 +13,7 @@ date: "`r format(Sys.Date())`{.R}" # @toDo https://stackoverflow.com/a/29518651/
 author:
 - name: `{third: "Beedell", first: "Roke"}`{.JSON5}
   affiliation: [NA]
-  email: s3wno0+s3wno6@RokeJulianLockhart.AnonAddy.com
+  email: s3wnu1+s3wnu7@RokeJulianLockhart.AnonAddy.com
 output:
   html_document:
     toc: true
