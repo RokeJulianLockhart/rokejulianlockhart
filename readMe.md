@@ -2,6 +2,26 @@
 #!/usr/bin/env -S tea code-insiders
 ```
 
+```.yaml
+---
+# @origin https://cran.r-project.org/web/packages/ymlthis/vignettes/yaml-fieldguide.html
+title: ""
+subject: ""
+description: ""
+lang: en-GB-oxendict
+date: "`r format(Sys.Date())`{.R}" # @toDo https://stackoverflow.com/a/29518651/9731176
+author:
+- name: `{third: "Beedell", first: "Roke"}`{.JSON5}
+  affiliation: [NA]
+  email: s3wno0+s3wno6@RokeJulianLockhart.AnonAddy.com
+output:
+  html_document:
+    toc: true
+    toc_depth: 6
+    number_sections: true # @info numbers sections at each table header
+---
+```
+
 <!DOCTYPE md> <!-- https://stackoverflow.com/q/71884484/9731176 -->
 <html lang="en-oxedict">
 
@@ -14,6 +34,8 @@
 </head>
 
 <body>
+
+**GitHub**
 
 <p>
 <div style='clear:both'>
@@ -35,6 +57,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokejulianlo
 </p>
 -->
 
+**[GitLab](https://gitlab.com/rokejulianlockhart/rokejulianlockhart/-/blob/main/readMe.md)**
+
+<blockQuote>
+
 <p>This isn't entirely indicative of the languages that I'm most proficient at. That's probably
 <ol type="1">
 <li><a href="file:///usr/bin/env -S tea pwsh-preview"><code>pwsh-preview</code></a></li>
@@ -43,6 +69,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokejulianlo
 <li>C++</li>
 </ol>
 </p>
+
+</blockQuote>
 
 <!--
 
@@ -56,8 +84,6 @@ src="https://visitcount.itsvg.in/api?id=rokejulianlockhart&label=Profile%20Views
 </p>
 
 -->
-
-Most information about me is available at https://gitlab.com/rokejulianlockhart/rokejulianlockhart/-/blob/main/readMe.md instead.
 
 </body>
 
