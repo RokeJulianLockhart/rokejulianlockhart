@@ -46,16 +46,14 @@ src="https://github-readme-stats.vercel.app/api?username=rokejulianlockhart&show
 </div>
 </p>
 
-<!--
 <p>
 <div style='clear:both'></div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img width="auto" height="auto"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokejulianlockhart&langs_count=10&theme=transparent&count_private=true&layout=default&langs_count=10" />
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokejulianlockhart&langs_count=10&theme=transparent&count_private=true&langs_count=10" />
 </a>
 </div>
 </p>
--->
 
 **[GitLab](https://gitlab.com/rokejulianlockhart/rokejulianlockhart/-/blob/main/readMe.md)**
 
