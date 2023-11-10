@@ -22,67 +22,43 @@ output:
 ---
 ```
 
-<!DOCTYPE md> <!-- https://stackoverflow.com/q/71884484/9731176 -->
-<html lang="en-oxedict">
+0.	**[GitHub](https://github.com/RokeJulianLockhart/rokejulianlockhart/edit/main/readMe.md)**
 
-<head>
-<meta charset="UTF-8">
-<!--
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="X-UA-Compatible" content="ie=edge">
--->
-</head>
+	I use this account for interacting with GitHub-integrated services and contributing to repositories hosted here. However, my primary `git` account is instead `RokeJulianLockhart@GitLab.com`.
+	
+	0.	**Statistics**
 
-<body>
+		Regardless, I have used this account extensively:
 
-**GitHub**
+		0.	**Summary**
 
-<p>
-<div style='clear:both'>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img width="auto" height="auto"
-src="https://github-readme-stats.vercel.app/api?username=rokejulianlockhart&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&number_format=long" />
-</a>
-</div>
-</p>
+     		![Summary](https://github-readme-stats.vercel.app/api?username=rokejulianlockhart&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
+    	
+		0.	**Contributions**
 
-<p>
-<div style='clear:both'></div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img width="auto" height="auto"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokejulianlockhart&langs_count=10&theme=transparent&count_private=true&langs_count=10" />
-</a>
-</div>
-</p>
+  			![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rokejulianlockhart&theme=transparent&hide_border=false)
 
-**[GitLab](https://gitlab.com/rokejulianlockhart/rokejulianlockhart/-/blob/main/readMe.md)**
+		0.	**Languages**
 
-<blockQuote>
+			![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rokejulianlockhart&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+	
+		0.	**Trophies**
+	  	
+			![Trophies](https://github-profile-trophy.vercel.app/?username=rokejulianlockhart&theme=default&no-frame=false&no-bg=false&margin-w=4)
+		
+		0.	**Visitation**
+	  	
+			![Trophies](https://visitcount.itsvg.in/api?id=rokejulianlockhart&icon=0&color=0)
 
-<p>This isn't entirely indicative of the languages that I'm most proficient at. That's probably
-<ol type="1">
-<li><a href="file:///usr/bin/env -S tea pwsh-preview"><code>pwsh-preview</code></a></li>
-<li><a href="file:///usr/bin/env -S tea python3"><code>python3</code></a></li>
-<li><a href="file:///usr/bin/env -S tea sh"><code>sh</code></a></li>
-<li>C++</li>
-</ol>
-</p>
+0.  **[GitLab](https://gitlab.com/rokejulianlockhart/rokejulianlockhart/-/blob/main/readMe.md)**
 
-</blockQuote>
+    The languages I'm most proficient at are:
 
-<!--
+    <ol type="1">
+    <li><a href="file:///usr/bin/env -S tea pwsh-preview"><code>pwsh-preview</code></a></li>
+    <li><a href="file:///usr/bin/env -S tea python3"><code>python3</code></a></li>
+    <li><a href="file:///usr/bin/env -S tea sh"><code>sh</code></a></li>
+    <li>C++</li>
+    </ol>
 
-<p>
-<div style='clear:both'></div>
-<a href="https://visitcount.itsvg.in">
-<img width="auto" height="auto"
-src="https://visitcount.itsvg.in/api?id=rokejulianlockhart&label=Profile%20Views&color=12&icon=0" />
-</a>
-</div>
-</p>
-
--->
-
-</body>
-
-</html>
+    This repository contains @RokeJulianLockhart's publicly available code. All sensible contribution is welcomed.
