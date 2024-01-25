@@ -22,32 +22,34 @@ output:
 ---
 ```
 
+# Roke
+
 This repository contains @RokeJulianLockhart's publicly available code. All sensible contribution is welcomed.
 
-0.	**[GitHub](https://linksta.cc/going/7364?https://linksta.cc/going/7361?https://github.com/rokejulianlockhart)**
+1.	## **[GitHub](https://linksta.cc/going/7364?https://linksta.cc/going/7361?https://github.com/rokejulianlockhart)**
 
 	I use this account for interacting with GitHub-integrated services and contributing to repositories hosted here. However, my primary `git` account is instead `RokeJulianLockhart@GitLab.com`.
 	
-	0.	**Statistics**
+	1.	### **Statistics**
 
 		Regardless, I have used this account extensively:
 
-		0.	**Summary**
+		1.	#### **Summary**
 
      		![Summary](https://github-readme-stats.vercel.app/api?username=rokejulianlockhart&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
     	
-		0.	**Contributions**
+		1.	#### **Contributions**
 
   			![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rokejulianlockhart&theme=transparent&hide_border=false)
 
-		0.	**Languages**
+		1.	#### **Languages**
 
 			![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rokejulianlockhart&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 	
-		0.	**Trophies**
+		1.	#### **Trophies**
 	  	
 			![Trophies](https://github-profile-trophy.vercel.app/?username=rokejulianlockhart&theme=default&no-frame=false&no-bg=false&margin-w=4)
 		
-		0.	**Visitation**
+		1.	#### **Visitation**
 	  	
 			![Trophies](https://visitcount.itsvg.in/api?id=rokejulianlockhart&icon=0&color=0)
