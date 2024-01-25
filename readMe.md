@@ -27,9 +27,9 @@ output: # `{"information": "Spcifies additional document output formats in Pando
 
 	Regardless, I have used this account extensively:
 
-	*Type*            | *Data*
-	------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	**Summary**       | ![Summary](https://github-readme-stats.vercel.app/api?username=rokejulianlockhart&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-  	**Languages**     | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RokeJulianLockhart&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-	**Trophies**      | ![Trophies](https://github-profile-trophy.vercel.app/?username=RokeJulianLockhart&theme=default&no-frame=false&no-bg=false&margin-w=4)
-	**Visitation**    | ![Visitation](https://visitcount.itsvg.in/api?id=RokeJulianLockhart&icon=0&color=0)
+	*Type*         | *Data*
+	---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	**Summary**    | ![Summary](https://github-readme-stats.vercel.app/api?username=rokejulianlockhart&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+	**Languages**  | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RokeJulianLockhart&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+	**Trophies**   | ![Trophies](https://github-profile-trophy.vercel.app/?username=RokeJulianLockhart&theme=default&no-frame=false&no-bg=false&margin-w=4) <!-- https://github.com/anuraghazra/github-readme-stats/issues/3613#issue-2100699842 -->
+	**Visitation** | ![Visitation](https://visitcount.itsvg.in/api?id=RokeJulianLockhart&icon=0&color=0) <!-- https://github.com/anuraghazra/github-readme-stats/issues/3614#issue-2100703035 -->
