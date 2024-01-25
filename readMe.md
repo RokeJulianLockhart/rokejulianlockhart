@@ -1,8 +1,3 @@
-```shebang
-#!/usr/bin/env -S tea code-insiders
-```
-
-```.yaml
 ---
 # @origin https://cran.r-project.org/web/packages/ymlthis/vignettes/yaml-fieldguide.html
 title: ""
@@ -20,7 +15,6 @@ output:
     toc_depth: 6
     number_sections: true # @info numbers sections at each table header
 ---
-```
 
 # Personal Repository
 
