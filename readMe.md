@@ -1,19 +1,20 @@
 ---
-# @origin https://cran.r-project.org/web/packages/ymlthis/vignettes/yaml-fieldguide.html
-title: ""
-subject: ""
-description: ""
-lang: en-GB-oxendict
-date: "`r format(Sys.Date())`{.R}" # @toDo https://stackoverflow.com/a/29518651/9731176
-author:
-- name: "`{third: \"Beedell\", first: \"Roke\"}`{.JSON5}"
-  affiliation: [NA]
-  email: s3wnu1+s3wnu7@RokeJulianLockhart.AnonAddy.com
-output:
-  html_document:
-    toc: true
-    toc_depth: 6
-    number_sections: true # @info numbers sections at each table header
+# `{"origin": "HTTPS://cran.R-Project.org/web/packages/ymlthis/vignettes/yaml-fieldguide.html"}`{.JSONC}
+
+title: "Repository Description" # `{"to_do": ""}`{.JSONC}
+subject: "Source Control" # `{"to_do": ""}`{.JSONC}
+description: "" # `{"to_do": ""}`{.JSONC}
+lang: "eng-GBR-oxendict" # `{"information": ""}`{.JSONC} `{"to_do": "Ascertain where `en-GB-oxendict` is from."}`{.JSONC}
+date: "`r format(Sys.Date())`" # `{"to_do": "HTTPS://StackOverflow.com/a/29518651/9731176"}`{.JSONC}
+author: # `{"information": "specifies authors"}`{.JSONC}
+  - name: "[`{third: \"Beedell\", first: \"Roke\"}`{.JSON5}](HTTPS://wim.nl.TAB.Digital/apps/contacts/All%20contacts/e1f2ec5c-074e-4875-ac62-53ff24770ffa~contacts)"
+    affiliation: ["NA"] # `{"information": "This refers to organizations."}`{.JSONC}
+    email: "mailTo:s7tq0q@RokeJulianLockhart.Addy.IO" # `{"origin": "HTTPS://app.Addy.IO/aliases//edit"}`{.JSONC}
+output: # `{"information": "Spcifies additional document output formats in Pandoc."}`{.JSONC}
+  - html_document: # `{"information": "Enables `.HTML` document output in Pandoc."}`{.JSONC}
+    toc: true # `{"information": "`true` enables the table of contents."}`{.JSONC}
+    toc_depth: 6 # `{"information": "6 is the maximum."}`{.JSONC}
+    number_sections: true # `{"information": "Numbers sections at each table header."}`{.JSONC}
 ---
 
 # Personal Repository
