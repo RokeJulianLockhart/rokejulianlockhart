@@ -19,32 +19,20 @@ output: # `{"information": "Spcifies additional document output formats in Pando
 
 # Personal Repository
 
-This repository contains @RokeJulianLockhart's publicly available code. All sensible contribution is welcomed.
-
-1.	## **[GitHub](https://linksta.cc/going/7364?https://linksta.cc/going/7361?https://github.com/rokejulianlockhart)**
-
-	I use this account for interacting with GitHub-integrated services and contributing to repositories hosted here. However, my primary `git` account is instead `RokeJulianLockhart@GitLab.com`.
+1.	## **Description**
 	
-	1.	### **Statistics**
+	1.	This repository contains @RokeJulianLockhart's publicly available code. All sensible contribution is welcomed.
+	1.	I use this account for interacting with GitHub-integrated services and contributing to repositories hosted here. However, my primary `git` account is instead https://linksta.cc/going/180833658?https://gitlab.com/rokejulianlockhart.
 
-		Regardless, I have used this account extensively:
+1.	## **Statistics**
 
-		1.	#### **Summary**
+	Regardless, I have used this account extensively:
 
-     		![Summary](https://github-readme-stats.vercel.app/api?username=rokejulianlockhart&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
-    	
-		1.	#### **Contributions**
-
-  			![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rokejulianlockhart&theme=transparent&hide_border=false)
-
-		1.	#### **Languages**
-
-			![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rokejulianlockhart&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-	
-		1.	#### **Trophies**
-	  	
-			![Trophies](https://github-profile-trophy.vercel.app/?username=rokejulianlockhart&theme=default&no-frame=false&no-bg=false&margin-w=4)
-		
-		1.	#### **Visitation**
-	  	
-			![Trophies](https://visitcount.itsvg.in/api?id=rokejulianlockhart&icon=0&color=0)
+	*Type*            | *Data*
+	------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	**Summary**       | ![Summary](https://github-readme-stats.vercel.app/api?username=rokejulianlockhart&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
+	**Contributions** | ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rokejulianlockhart&theme=transparent&hide_border=false)
+	**Languages**     | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rokejulianlockhart&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+	**Trophies**      | ![Trophies](https://github-profile-trophy.vercel.app/?username=rokejulianlockhart&theme=default&no-frame=false&no-bg=false&margin-w=4)
+	**Visitation**    | ![Visitation](https://visitcount.itsvg.in/api?id=rokejulianlockhart&icon=0&color=0)
+  	
