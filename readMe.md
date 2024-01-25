@@ -22,7 +22,7 @@ output:
 ---
 ```
 
-# Roke
+# Personal Repository
 
 This repository contains @RokeJulianLockhart's publicly available code. All sensible contribution is welcomed.
 
