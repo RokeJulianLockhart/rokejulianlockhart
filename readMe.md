@@ -21,8 +21,7 @@ output: # `{"information": "Spcifies additional document output formats in Pando
 
 1.	## **Description**
 	
-	1.	> This repository contains @RokeJulianLockhart's publicly available code. All sensible contribution is welcomed.
-	1.	I use this account for interacting with GitHub-integrated services and contributing to repositories hosted here. However, my primary `git` account is instead https://linksta.cc/going/180833658?https://gitlab.com/rokejulianlockhart.
+	This repository contains @RokeJulianLockhart's publicly available code. All sensible contribution is welcomed. I utilize this account solely to interact with the repositories hosted on this service.
 
 1.	## **Statistics**
 
