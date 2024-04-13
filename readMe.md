@@ -11,7 +11,7 @@ date: "`r format(Sys.Date())`"
   # **Task**        | https://StackOverflow.com/a/29518651/9731176
 author: # **Information** | Defines the authors.
   - name: "[`{third: \"Beedell\", first: \"Roke\"}`{.JSON5}](HTTPS://wim.nl.TAB.Digital/apps/contacts/All%20contacts/e1f2ec5c-074e-4875-ac62-53ff24770ffa~contacts)" # **Information** | Defines the name of the author.
-    email: "mailTo:" # **Citation** | https://app.addy.io/aliases/
+    email: "mailTo:ef4uf956@rokejulianlockhart.addy.io" # **Citation** | https://app.addy.io/aliases/
 output: # **Information** | Specifies additional document output formats in Pandoc.
   - html_document: # **Information** | Enables `.HTML` document output in Pandoc.
       toc: true # **Information** | `true` enables the table of contents.
