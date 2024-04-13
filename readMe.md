@@ -4,21 +4,10 @@
 #     <td>https://gohugo.io/content-management/front-matter/#fields:~:text=a%20Page%20object.-,description,-(string)%20Conceptually%20different</td>
 # </tr></table>
 
-title: "Repository Description"
+title:   "Repository Description" # <table><tr> <th>Information</th> <td>Defines the title of the content, because `<h1>`/`#` in the content doesn't affect the metadata.</td> </tr></table>
+subject: "Source Control" # <table><tr> <th>Information</th> <td>Defines the subject of the content.</td> </tr></table>
 
-  # <table><tr>
-  #     <th>Information</th>
-  #     <td>Defines the title of the content, because `<h1>`/`#` in the content doesn't affect the metadata.</td>
-  # </tr></table>
-
-subject: "Source Control"
-
-  # <table><tr>
-  #     <th>Information</th>
-  #     <td>Defines the subject of the content.</td>
-  # </tr></table>
-
-lang: "`eng-GBR-oxendict`"
+lang:    "`eng-GBR-oxendict`"
 
   # <table><tr>
   #     <th>Information</th>
@@ -39,13 +28,13 @@ date: "`r format(Sys.Date())`"
   # </tr></table>
 
 author: # <table><tr> <th>Information</th> <td>Defines the authors.</td> </tr></table>
-  - name: "[`{3rd: \"Beedell\", 1st: \"Roke\"}`{.JSON5}](https://wim.nl.tab.digital/apps/contacts/All%20contacts/e1f2ec5c-074e-4875-ac62-53ff24770ffa~contacts#:~:text=First-name-,Middle%20names,Surname,-Suffix)" # **Information** | Defines the name of the author.
+  - name:  "[`{3rd: \"Beedell\", 1st: \"Roke\"}`{.JSON5}](https://wim.nl.tab.digital/apps/contacts/All%20contacts/e1f2ec5c-074e-4875-ac62-53ff24770ffa~contacts#:~:text=First-name-,Middle%20names,Surname,-Suffix)" # **Information** | Defines the name of the author.
     email: "[`ef4uf956@rokejulianlockhart.addy.io`](mailTo:ef4uf956@rokejulianlockhart.addy.io)" # <table><tr> <th>Citation</th> <td>https://app.addy.io/aliases/4c7718c1-0f47-429d-a6e5-235c15c68285/edit#:~:text=to%20your%20alias-,ef4uf956%40rokejulianlockhart.addy.io,-https%3A%2F%2Fgithub.com</td> </tr></table>
 output: # <table><tr> <th>Information</th> <td>Specifies additional document output formats in Pandoc.</td> </tr></table>
   - html_document: # <table><tr> <th>Information</th> <td>Enables `.HTML` document output in Pandoc.</td> </tr></table>
-      toc: true # <table><tr> <th>Information</th> <td>`true` enables the table of contents.</td> </tr></table>
-      toc_depth: 6 # <table><tr> <th>Information</th> <td>6 is the maximum.</td> </tr></table>
       number_sections: true # <table><tr> <th>Information</th> <td>Numbers sections at each table header.</td> </tr></table>
+      toc:             true # <table><tr> <th>Information</th> <td>`true` enables the table of contents.</td> </tr></table>
+      toc_depth:       6    # <table><tr> <th>Information</th> <td>6 is the maximum.</td> </tr></table>
 ---
 
 <!DOCTYPE Markdown>
