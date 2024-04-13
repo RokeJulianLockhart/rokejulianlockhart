@@ -51,14 +51,14 @@ output: # **Information** | Specifies additional document output formats in Pand
 
 	<table><tr>
 		<th>Summary</th>
-		<td><img src=https://github-readme-stats.vercel.app/api?username=rokejulianlockhart&theme=transparent&hide_border=true&include_all_commits=true&count_private=true</img></td>
+		<td><img src="https://github-readme-stats.vercel.app/api?username=rokejulianlockhart&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"></img></td>
 	</tr><tr>
 		<th>Languages</th>
-		<td><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=RokeJulianLockhart&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact</img></td>
+		<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RokeJulianLockhart&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact"></img></td>
 	</tr><tr>
 		<th>Trophies</th>
-		<td><img src=https://github-profile-trophy.vercel.app/?username=RokeJulianLockhart&theme=default&no-frame=false&no-bg=false&margin-w=4</img></td> <!-- https://github.com/anuraghazra/github-readme-stats/issues/3613#issue-2100699842 -->
+		<td><img src="https://github-profile-trophy.vercel.app/?username=RokeJulianLockhart&theme=default&no-frame=false&no-bg=false&margin-w=4"></img></td> <!-- https://github.com/anuraghazra/github-readme-stats/issues/3613#issue-2100699842 -->
 	</tr><tr>
 		<th>Visitation</th>
-		<td><img src=https://visitcount.itsvg.in/api?id=RokeJulianLockhart&icon=0&color=0</img></td> <!-- https://github.com/anuraghazra/github-readme-stats/issues/3614#issue-2100703035 -->
+		<td><img src="https://visitcount.itsvg.in/api?id=RokeJulianLockhart&icon=0&color=0"></img></td> <!-- https://github.com/anuraghazra/github-readme-stats/issues/3614#issue-2100703035 -->
 	</tr></table>
