@@ -22,6 +22,23 @@ output: # **Information** | Specifies additional document output formats in Pand
 <!DOCTYPE Markdown>
 <meta charset="UTF-8">
 
+<style>
+	:is(h1) {
+		font-size: 1.5em;
+	}
+	:is(h1, h2, h3, h4, h5, h6, th) { margin-top: 1em; }
+	:is(h2, h3, h4, h5, h6, th) {
+		border-bottom: 1px solid #484848; /* https://stackoverflow.com/a/16073356/9731176 */
+		font-weight: bold;
+		font-size: inherit;
+	}
+	:is(th, td) {
+		border: 1px solid #484848!important;
+		border-collapse: collapse;
+	}
+	details > summary:first-of-type { list-style-type: none; }
+</style>
+
 # **Personal Repository**
 
 1.	## **Description**
