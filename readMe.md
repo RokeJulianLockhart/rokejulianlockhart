@@ -57,13 +57,13 @@ output: # <table><tr> <th>Information</th> <td>Specifies additional document out
 	details > summary:first-of-type { list-style-type: none; }
 </style>
 
-# **Personal Repository**
+<details open> <summary> <h1> Personal Repository </h1> </summary>
 
-1.	## **Description**
+1.	<details open> <summary> <h2> Description </h2> </summary>
 	
 	This repository contains @RokeJulianLockhart's publicly available code. All sensible contribution is welcomed. I utilize this account solely to interact with the repositories hosted on this service.
 
-1.	## **Statistics**
+1.	<details open> <summary> <h2> Statistics </h2> </summary>
 
 	Regardless, I have used this account extensively:
 
