@@ -87,6 +87,7 @@ output: # <table><tr><th>  Information  </th><td>  Specifies additional document
 		</td> <!--
 			<table><tr><th> Information </th>
 			<td> <ol>
+				<li> <a href="https://github.com/VishwaGauravIn/visit-count-pro/issues/12#issue-2322046594"> Rendering Bug Report </a> </li>
 				<li> <a href="https://github.com/anuraghazra/github-readme-stats/issues/3614#issue-2100703035"> GitHub ReadMe Statistics Addition Request </a> </li>
 				<li> <a href="https://github.com/VishwaGauravIn/visit-count-pro/issues/8#issue-2106166210"> 1st-Party Request for Transparency </a> </li>
 			</ol> </td>
