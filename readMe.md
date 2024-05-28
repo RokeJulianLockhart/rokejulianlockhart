@@ -83,7 +83,7 @@ output: # <table><tr><th>  Information  </th><td>  Specifies additional document
 		<td> <img src="https://github-profile-trophy.vercel.app/?username=RokeJulianLockhart&theme=default&no-frame=false&no-bg=false&margin-w=4"> </td> <!-- <table><tr><th> Information </th><td> <a href="https://github.com/anuraghazra/github-readme-stats/issues/3613#issue-2100699842"> GitHub FR </a> </td></tr></table> -->
 	</tr><tr>
 		<th> Visitation </th>
-		<td> <a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=RokeJulianLockhart&label=Profile%20Views&color=12&icon=0&pretty=false" > </a> <!-- <table><tr><th> Citation </th><td> <a href="https://stackoverflow.com/revisions/3311065/1#:~:text=So%20any%20tags%20that%20you%20have%20with%20/%3E%20must%20be%20changed%20to%20remove%20the%20forward%20slash%20to%20be%20HTML%20conformant."> GitHub ReadMe Statistics Addition Request </a> </td></tr></table> -->
+		<td> <a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=RokeJulianLockhart&label=Profile%20Views&color=12&icon=0&pretty=false"> </a> <!-- <table><tr><th> Citation </th><td> <a href="https://stackoverflow.com/revisions/3311065/1#:~:text=So%20any%20tags%20that%20you%20have%20with%20/%3E%20must%20be%20changed%20to%20remove%20the%20forward%20slash%20to%20be%20HTML%20conformant."> GitHub ReadMe Statistics Addition Request </a> </td></tr></table> -->
 		</td> <!--
 			<table><tr><th> Information </th>
 			<td> <ol>
