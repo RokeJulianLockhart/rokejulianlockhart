@@ -144,7 +144,6 @@ output:
 	</table>
 -->
 
-~~~HTML
 <h1>
 	Repository Information
 </h1>
@@ -280,4 +279,3 @@ output:
 		</li>
 	</ol>
 </div>
-~~~
