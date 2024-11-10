@@ -303,9 +303,9 @@ output:
 		</tbody>
 	</table>
 -->
-<h1>
+<h4>
 	Repository Information
-</h1>
+</h4>
 <div class="block-indent">
 	<ol>
 		<li>
