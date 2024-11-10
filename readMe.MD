@@ -171,38 +171,78 @@ author:
 
 output:
 
-  #<table><tr>
-  #    <th> Information </th>
-  #    <td> Specifies additional document output formats in Pandoc. </td>
-  #</tr></table>
+  # <table>
+  #   <tbody>
+  #     <tr>
+  #       <th>
+  #         Information
+  #       </th>
+  #       <td>
+  #         Specifies additional document output formats in Pandoc.
+  #       </td>
+  #     </tr>
+  #   </tbody>
+  # </table>
 
 - html_document:
 
-      #<table><tr>
-      #    <th> Information </th>
-      #    <td> Enables <code>.HTML</code> document output in Pandoc. </td>
-      #</tr></table>
+    # <table>
+    #   <tbody>
+    #     <tr>
+    #       <th>
+    #         Information
+    #       </th>
+    #       <td>
+    #         Enables <code>.HTML</code> document output in Pandoc.
+    #       </td>
+    #     </tr>
+    #   </tbody>
+    # </table>
 
       number_sections: true
 
-        #<table><tr>
-        #    <th> Information </th>
-        #    <td> Numbers sections at each table header. </td>
-        #</tr></table>
+        # <table>
+        #   <tbody>
+        #     <tr>
+        #       <th>
+        #         Information
+        #       </th>
+        #       <td>
+        #         Numbers sections at each table header.
+        #       </td>
+        #     </tr>
+        #   </tbody>
+        # </table>
 
       toc: true
 
-        # <table><tr>
-        #    <th> Information </th>
-        #    <td> <code>true</code> enables the table of contents. </td>
-        #</tr></table>
+        # <table>
+        #   <tbody>
+        #     <tr>
+        #       <th>
+        #         Information
+        #       </th>
+        #       <td>
+        #         <code>true</code> enables the table of contents.
+        #       </td>
+        #     </tr>
+        #   </tbody>
+        # </table>
 
       toc_depth: 6
 
-        # <table><tr>
-        #    <th> Information </th>
-        #    <td> <code>true</code> 6 is the maximum. </td>
-        #</tr></table>
+        # <table>
+        #   <tbody>
+        #     <tr>
+        #       <th>
+        #         Information
+        #       </th>
+        #       <td>
+        #         <code>true</code> 6 is the maximum.
+        #       </td>
+        #     </tr>
+        #   </tbody>
+        # </table>
 
 ---
 <!--
