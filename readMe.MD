@@ -309,21 +309,21 @@ output:
 <div class="block-indent">
 	<ol>
 		<li>
-			<details open>
-				<summary>
+			<details>
+				<summary open>
 					<h4>
 						Summary
 					</h4>
 				</summary>
 				<div class="block-indent">
 					<p>
-						This repository contains @RokeJulianLockhart's publicly available code. All sensible contribution is welcomed. I utilize this account solely to interact with the repositories hosted on this service.
+						This repository contains <a href="https://github.com/RokeJulianLockhart">@RokeJulianLockhart</a>'s publicly available code. All sensible contribution is welcomed. I utilize this account solely to interact with the repositories hosted on this service.
 					</p>
 				</div>
 			</details>
 		</li>
 		<li>
-			<details open>
+			<details>
 				<summary>
 					<h4>
 						Statistics
