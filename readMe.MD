@@ -311,9 +311,9 @@ output:
 		<li>
 			<details open>
 				<summary>
-					<h2>
+					<h4>
 						Summary
-					</h2>
+					</h4>
 				</summary>
 				<div class="block-indent">
 					<p>
@@ -325,9 +325,9 @@ output:
 		<li>
 			<details open>
 				<summary>
-					<h2>
+					<h4>
 						Statistics
-					</h2>
+					</h4>
 				</summary>
 				<div class="block-indent">
 					<p>
