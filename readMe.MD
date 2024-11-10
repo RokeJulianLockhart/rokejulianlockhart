@@ -1,4 +1,5 @@
 ---
+
 # <table>
 #   <tbody>
 #     <tr>
@@ -27,10 +28,18 @@
 
 title: "Repository Information"
 
-  #<table><tr>
-  #    <th> Information </th>
-  #    <td> Defines the title of the content, because <code><h1></code>/<code>#</code> in the content doesn't affect the metadata. </td>
-  #</tr></table>
+  # <table>
+  #   <tbody>
+  #     <tr>
+  #       <th>
+  #         Information
+  #       </th>
+  #       <td>
+  #         Defines the title of the content, because <code>&lt;h1&gt;</code>/<code>#</code> in the content doesn't affect the metadata.
+  #       </td>
+  #     </tr>
+  #   </tbody>
+  # </table>
 
 lang: "`eng-GBR-oxendict`"
 
@@ -98,6 +107,7 @@ output:
         #    <th> Information </th>
         #    <td> <code>true</code> 6 is the maximum. </td>
         #</tr></table>
+
 ---
 <!--
 	<table>
