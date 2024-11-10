@@ -309,8 +309,8 @@ output:
 <div class="block-indent">
 	<ol>
 		<li>
-			<details>
-				<summary open>
+			<details open>
+				<summary>
 					<h4>
 						Summary
 					</h4>
