@@ -312,7 +312,7 @@ output:
 			<details open>
 				<summary>
 					<h2>
-						Table of Contents
+						Summary
 					</h2>
 				</summary>
 				<div class="block-indent">
