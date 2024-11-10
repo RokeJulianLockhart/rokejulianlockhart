@@ -41,11 +41,11 @@ title: "Repository Information"
   #   </tbody>
   # </table>
 
-lang: |
+lang:
 
-  <code>
+  "<code>
     eng-GBR-oxendict
-  </code>
+  </code>"
 
   # <table>
   #   <tbody>
@@ -121,11 +121,11 @@ author:
   #   </tbody>
   # </table>
 
-  - name: |
+  - name:
 
-      <a href=\"https://wim.nl.tab.digital/apps/contacts/All%20contacts/e1f2ec5c-074e-4875-ac62-53ff24770ffa~sf30kq#:~:text=Beedell%20%E2%80%94%20Online-,Roke%20Beedell,-NATO%20STANAG%202116\">
+      "<a href=\"https://wim.nl.tab.digital/apps/contacts/All%20contacts/e1f2ec5c-074e-4875-ac62-53ff24770ffa~sf30kq#:~:text=Beedell%20%E2%80%94%20Online-,Roke%20Beedell,-NATO%20STANAG%202116\">
         wim.nl.tab.digital/apps/contacts/All%20contacts/e1f2ec5c-074e-4875-ac62-53ff24770ffa~sf30kq
-      </a>
+      </a>"
 
       # <table>
       #   <tbody>
