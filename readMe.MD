@@ -1,12 +1,29 @@
 ---
-
-#<table> <tr>
-#    <th> Citations </th>
-#    <td> <ol>
-#        <li> <a href="https://gohugo.io/content-management/front-matter/#fields:~:text=a%20Page%20object.-,description,-(string)%20Conceptually%20different">                    Hugo Documentation </a> </li>
-#        <li> <a href="https://gitlab.com/uramer/vscode-comments-as-markdown/-/issues/5#:~:text=there's%20no%20option%20to%20render%20the%20code%20in%20markdown%20frontmatter."> Visual Studio Code Markdown Comment Extension YAML Preamble Render Request </a> </li>
-#    </ol> </td>
-#</tr> </table>
+# <table>
+#   <tbody>
+#     <tr>
+#       <th>
+#         Citations
+#       </th>
+#       <td>
+#         <ol>
+#           <li>
+#             <a href="https://gohugo.io/content-management/front-matter/fields:~:text=a%20Page%20object.-,description,-(string)%20Conceptually%20different">
+#               <cite>
+#                 Hugo Documentation
+#               </cite>
+#             </a>
+#           </li>
+#           <li>
+#             <a href="https://gitlab.com/uramer/vscode-comments-as-markdown/-/issues/5:~:text=there's%20no%20option%20to%20render%20the%20code%20in%20markdown%20frontmatter.">
+#               Visual Studio Code Markdown Comment Extension YAML Preamble Render Request
+#             </a>
+#           </li>
+#         </ol>
+#       </td>
+#     </tr>
+#   </tbody>
+# </table>
 
 title: "Repository Information"
 
@@ -81,9 +98,7 @@ output:
         #    <th> Information </th>
         #    <td> <code>true</code> 6 is the maximum. </td>
         #</tr></table>
-
 ---
-
 <!--
 	<table>
 		<tbody>
@@ -100,7 +115,6 @@ output:
 		</tbody>
 	</table>
 -->
-
 <head>
 	<meta charSet = "UTF-8">
 	<link
@@ -109,7 +123,6 @@ output:
 		href = "https://gitlab.com/RokeJulianLockhart.sklhad/sg5n9q/-/raw/1aaafaa62bef47884094f2528771260a69e23737/@%7B'Name'='Content';%20Identifier='SLZS1K'%7D%23.dir/@%7B'Name'='Technical';%20Identifier='SLZS47'%7D%23.dir/@%7B'Status'='Commenced';%20'Name'='HTML%20Resources'%7D%23.dir/@%7B'Name'='CSS%203%20Stylesheet';%20'Identifier'='SIFDYR'%7D%23.txt.CSS#:~:text=:root%20%7B,*/"
 	>
 </head>
-
 <!--
 	<table>
 		<tbody>
@@ -126,7 +139,6 @@ output:
 		</tbody>
 	</table>
 -->
-
 <!--
 	<table>
 		<tbody>
@@ -143,7 +155,6 @@ output:
 		</tbody>
 	</table>
 -->
-
 <h1>
 	Repository Information
 </h1>
