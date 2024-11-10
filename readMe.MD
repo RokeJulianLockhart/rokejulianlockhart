@@ -140,11 +140,11 @@ author:
       #   </tbody>
       # </table>
 
-    email: |
+    email:
 
-      <a href=\"mailTo:ef4uf956@rokejulianlockhart.addy.io\">
+      "<a href=\"mailTo:ef4uf956@rokejulianlockhart.addy.io\">
         ef4uf956@rokejulianlockhart.addy.io
-      </a>
+      </a>"
 
       # <table>
       #   <tbody>
